@@ -1,5 +1,6 @@
 const { Pizza } = require('../models');
 
+
 const pizzaController = {
     // get all pizzas GET /api/pizzas
     getAllPizza(req, res) {
